@@ -27,7 +27,7 @@ p {
 }
 
 .image {
-  background-image: url(/img/image-product-desktop.jpg);
+  background-image: url(./img/image-product-desktop.jpg);
   background-size: cover;
   width: 50%;
   border-radius: 10px 0px 0px 10px;
@@ -71,7 +71,7 @@ p {
   }
 
   .image {
-    background-image: url(/img/image-product-mobile.jpg);
+    background-image: url(./img/image-product-mobile.jpg);
     background-size: cover;
     border-radius: 10px 10px 0px 0px;
     height: 250px;
